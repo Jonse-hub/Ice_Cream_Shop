@@ -1,0 +1,15 @@
+C:\Users\jona444j\source\repos\Isbutik_Uli\Isbutik_Uli\bin\Debug\Isbutik_Uli.exe.config
+C:\Users\jona444j\source\repos\Isbutik_Uli\Isbutik_Uli\bin\Debug\Isbutik_Uli.exe
+C:\Users\jona444j\source\repos\Isbutik_Uli\Isbutik_Uli\bin\Debug\Isbutik_Uli.pdb
+C:\Users\jona444j\source\repos\Isbutik_Uli\Isbutik_Uli\obj\Debug\Isbutik_Uli.csprojAssemblyReference.cache
+C:\Users\jona444j\source\repos\Isbutik_Uli\Isbutik_Uli\obj\Debug\MainWindow.g.cs
+C:\Users\jona444j\source\repos\Isbutik_Uli\Isbutik_Uli\obj\Debug\App.g.cs
+C:\Users\jona444j\source\repos\Isbutik_Uli\Isbutik_Uli\obj\Debug\Isbutik_Uli_MarkupCompile.cache
+C:\Users\jona444j\source\repos\Isbutik_Uli\Isbutik_Uli\obj\Debug\Isbutik_Uli_MarkupCompile.lref
+C:\Users\jona444j\source\repos\Isbutik_Uli\Isbutik_Uli\obj\Debug\MainWindow.baml
+C:\Users\jona444j\source\repos\Isbutik_Uli\Isbutik_Uli\obj\Debug\Isbutik_Uli.g.resources
+C:\Users\jona444j\source\repos\Isbutik_Uli\Isbutik_Uli\obj\Debug\Isbutik_Uli.Properties.Resources.resources
+C:\Users\jona444j\source\repos\Isbutik_Uli\Isbutik_Uli\obj\Debug\Isbutik_Uli.csproj.GenerateResource.cache
+C:\Users\jona444j\source\repos\Isbutik_Uli\Isbutik_Uli\obj\Debug\Isbutik_Uli.csproj.CoreCompileInputs.cache
+C:\Users\jona444j\source\repos\Isbutik_Uli\Isbutik_Uli\obj\Debug\Isbutik_Uli.exe
+C:\Users\jona444j\source\repos\Isbutik_Uli\Isbutik_Uli\obj\Debug\Isbutik_Uli.pdb
